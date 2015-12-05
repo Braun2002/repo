@@ -1,2 +1,3 @@
 print('hello world');
 echo 'hello World';
+echo 'hello';
