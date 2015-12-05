@@ -1,5 +1,6 @@
-print('hello world');
-echo 'hello World';
-echo 'hello';
-echo 'hello someone';
-echo 'hello someone else';
+print('hello world')
+echo 'hello World'
+echo 'hello'
+echo 'hello someone'
+echo 'hello someone else'
+
